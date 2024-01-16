@@ -74,8 +74,6 @@ export function TestChart({ originalArray }) {
     // Perform data filtering and calculation here
     [...originalArray].sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // ... (rest of the data processing logic)
-
     // Set initial data for the chart
     setChartData({
       labels: ['Happy', 'Sad', 'Cheeky', 'Tired', 'Worried', 'Angry'],
