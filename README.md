@@ -23,6 +23,7 @@ Both adults and children can use Bubble! Children are encouraged to log their em
 - [Setting up a local environment](#getting_started)
 - [Tech Stack](#tech_stack)
 - [Lessons Learned](#lessons_learned)
+- [Demo](#demo)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -76,15 +77,14 @@ You can visit our app here -> <a href="https://bubble-app-two.vercel.app/">Bubbl
 
 ## 🏫 Lessons Learned <a name = "lessons_learned"></a>
 
-- Good planning in general goes a long way and then the code basically writes itself.
+- Good planning in general goes a long way.
 - Having a different Scrum Master per day allowed for easy decision making, task priorisation and day-to-day structure.
 - Making big decisions as a team and moving on with the intended plan. We decided not to use Express and or have auth early on but we kept them in mind for future progress.
-- Accessibility is extremely important. We learned to have this in mind from the very beginning of the process, from desing all the way through.
+- Accessibility is extremely important. We learned to have this in mind from the very beginning of the process, from design all the way through.
 - ChakraUI is brilliant for quick and easy styling and re-usable components!
-- Understanding about the architecture of a full-stack app starting with a the visual aspect.
 - Playwright testing - check for the box rather than the content. We don't want brittle tests!
 - Dynamic routing in Next.
-- Energisers make for a happy team! Gartic league still ongoing.
+- Energisers make for a happy team!
 
 ## ✍️ Authors <a name = "authors"></a>
 
@@ -99,3 +99,12 @@ You can visit our app here -> <a href="https://bubble-app-two.vercel.app/">Bubbl
 Big thank you to the School of Code for all the support and guidance!
 
 - https://www.schoolofcode.co.uk - https://github.com/SchoolOfCode
+
+## 🎥 Demo <a name = "demo"></a>
+
+<p align="center">Full Demo -> <a href="https://www.youtube.com/watch?v=0khTn14gbVo">Watch it here</a></p>
+
+<video align="center" src="https://github.com/chisfy/final-project-bubble/assets/137444313/b344ba16-0fa2-47c7-a4f1-fdb54912935b"/>
+
+
+
